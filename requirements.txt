@@ -1,1 +1,1 @@
-pyillusion
+https://github.com/RealityBending/Pyllusion/zipball/master
